@@ -11,7 +11,7 @@
 [![Followers](https://img.shields.io/github/followers/NanSsye-de?style=for-the-badge&label=Followers&color=0f172a)](https://github.com/NanSsye-de)
 [![Status](https://img.shields.io/badge/Status-Building%20in%20Public-7c3aed?style=for-the-badge)](https://github.com/NanSsye-de/NanSsye-de)
 [![Workflow](https://img.shields.io/badge/Workflow-Main%20%2F%20Executor%20%2F%20Reviewer-111827?style=for-the-badge)](https://github.com/NanSsye-de/NanSsye-de)
-[![Featured Asset](https://img.shields.io/badge/Featured-Public%20Assets%20Updating-0f766e?style=for-the-badge&logo=github)](https://github.com/NanSsye-de/NanSsye-de)
+[![Featured Asset](https://img.shields.io/badge/Featured-OpenClaw%20Setup-0f766e?style=for-the-badge&logo=github)](https://github.com/NanSsye-de/openclaw-setup)
 
 </div>
 
@@ -60,7 +60,7 @@
 <tr>
 <td width="100%" valign="top">
 
-### 🧩 公开资产整理中
+### 🧩 公开资产
 
 我正在把可公开的多 agent 工作流、技能脚手架、文档说明逐步整理成 **NanSsye-de** 账号下可以稳定访问的公开资产。
 
@@ -70,18 +70,14 @@
 - 未迁移完成的内容，不挂旧账号仓库链接
 - 先把信息边界收干净，再逐步补齐公开仓库与文档
 
-**目前可直接访问：**
+**目前已可直接访问：**
 
 - **主页仓库**：[`NanSsye-de/NanSsye-de`](https://github.com/NanSsye-de/NanSsye-de)
+- **Agent 工作台公开配置**：[`NanSsye-de/openclaw-setup`](https://github.com/NanSsye-de/openclaw-setup) ← **新增**
 
-**后续会公开补齐的方向：**
-- 多 agent 协作结构与路由规则
-- 可复用的 skill 脚手架与说明文档
-- 更完整的部署 / 验证材料
+**公开资产说明：**
 
-**这次先做对一件事：**
-- 不再让主页出现任何 `NanSsye/` 旧账号仓库入口
-- 不把不存在于 `NanSsye-de` 名下的仓库硬挂到公开门面上
+[`openclaw-setup`](https://github.com/NanSsye-de/openclaw-setup) 是当前已公开的 Agent 工作台配置库，包含三角架构派发规则、多 Agent 协作设计、记忆系统说明。后续会继续补齐 Skill 脚手架和文档。
 
 </td>
 </tr>
@@ -92,9 +88,9 @@
 <div align="center">
 
 [![Profile Repo](https://img.shields.io/badge/GitHub-Profile%20Repo-111827?style=for-the-badge&logo=github)](https://github.com/NanSsye-de/NanSsye-de)
-[![Public Assets](https://img.shields.io/badge/Public%20Assets-Migrating-2563eb?style=for-the-badge)](https://github.com/NanSsye-de)
-[![Workflow Notes](https://img.shields.io/badge/Workflow-Being%20Organized-7c3aed?style=for-the-badge)](https://github.com/NanSsye-de/NanSsye-de)
-[![Docs Status](https://img.shields.io/badge/Docs-Updating-0f766e?style=for-the-badge)](https://github.com/NanSsye-de/NanSsye-de)
+[![Agent Setup](https://img.shields.io/badge/Agent%20Setup-OpenClaw%20Setup-2563eb?style=for-the-badge&logo=github)](https://github.com/NanSsye-de/openclaw-setup)
+[![Featured Asset](https://img.shields.io/badge/Featured-OpenClaw%20Setup-7c3aed?style=for-the-badge&logo=github)](https://github.com/NanSsye-de/openclaw-setup)
+[![Workflow](https://img.shields.io/badge/Workflow-Main%20%2F%20Executor%20%2F%20Reviewer-0f766e?style=for-the-badge&logo=github)](https://github.com/NanSsye-de/openclaw-setup)
 
 </div>
 
@@ -264,7 +260,7 @@
 | 资产 | 类型 | 现在能点进去看什么 |
 |---|---|---|
 | [`NanSsye-de/NanSsye-de`](https://github.com/NanSsye-de/NanSsye-de) | Profile repo | 公开主页本身，以及我怎么整理自己的公开表达 |
-| `更多公开仓库整理中` | Placeholder | 待 `NanSsye-de` 名下公开仓库补齐后，再提供稳定入口 |
+| [`NanSsye-de/openclaw-setup`](https://github.com/NanSsye-de/openclaw-setup) | Agent Setup | 三角架构派发规则、多 Agent 协作设计与记忆系统说明，已可点击访问 |
 
 > 原则很简单：**宁可少挂，也不拿私有东西硬凑门面。**
 
@@ -289,7 +285,7 @@
 [✓] 第三轮：文案更像“我自己”
 [✓] 第四轮：门面感、层次感、作品感继续增强
 [✓] 第五轮：代表展示区与公开资产已整理过一轮
-[→] 第六轮：等 `NanSsye-de` 名下公开仓库补齐后再继续增加作品入口
+[→] 第六轮：等 `NanSsye-de` 名下公开仓库补齐后再继续增加作品入口（[`openclaw-setup`](https://github.com/NanSsye-de/openclaw-setup) 已完成 ✅）
 ```
 
 我现在不想要一个“字很多但不好看”的主页。  
