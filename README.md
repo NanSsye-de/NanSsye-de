@@ -11,7 +11,7 @@
 [![Followers](https://img.shields.io/github/followers/NanSsye-de?style=for-the-badge&label=Followers&color=0f172a)](https://github.com/NanSsye-de)
 [![Status](https://img.shields.io/badge/Status-Building%20in%20Public-7c3aed?style=for-the-badge)](https://github.com/NanSsye-de/NanSsye-de)
 [![Workflow](https://img.shields.io/badge/Workflow-Main%20%2F%20Executor%20%2F%20Reviewer-111827?style=for-the-badge)](https://github.com/NanSsye-de/NanSsye-de)
-[![Featured Skill](https://img.shields.io/badge/Featured-openclaw--multi--agent--skill-0f766e?style=for-the-badge&logo=github)](https://github.com/NanSsye/openclaw-multi-agent-skill)
+[![Featured Asset](https://img.shields.io/badge/Featured-Public%20Assets%20Updating-0f766e?style=for-the-badge&logo=github)](https://github.com/NanSsye-de/NanSsye-de)
 
 </div>
 
@@ -60,28 +60,28 @@
 <tr>
 <td width="100%" valign="top">
 
-### 🧩 OpenClaw Multi-Agent Skill
+### 🧩 公开资产整理中
 
-把 OpenClaw 从单体 agent 用法，整理成 **main / executor / reviewer** 三角协作结构的可分享 skill。
+我正在把可公开的多 agent 工作流、技能脚手架、文档说明逐步整理成 **NanSsye-de** 账号下可以稳定访问的公开资产。
 
-**这不是概念图，而是已经做成可复用仓库的东西。**
+**当前原则：**
 
-**你可以直接点：**
+- 主页只保留 **NanSsye-de** 名下真实存在、可公开访问的入口
+- 未迁移完成的内容，不挂旧账号仓库链接
+- 先把信息边界收干净，再逐步补齐公开仓库与文档
 
-- **仓库入口**：[`NanSsye/openclaw-multi-agent-skill`](https://github.com/NanSsye/openclaw-multi-agent-skill)
-- **Skill 说明**：[`SKILL.md`](https://github.com/NanSsye/openclaw-multi-agent-skill/blob/main/SKILL.md)
-- **部署说明**：[`docs/setup.md`](https://github.com/NanSsye/openclaw-multi-agent-skill/blob/main/docs/setup.md)
-- **路由规则**：[`docs/routing-rules.md`](https://github.com/NanSsye/openclaw-multi-agent-skill/blob/main/docs/routing-rules.md)
-- **验证文档**：[`docs/validation.md`](https://github.com/NanSsye/openclaw-multi-agent-skill/blob/main/docs/validation.md)
+**目前可直接访问：**
 
-**这个资产解决的问题：**
-- 把执行和复核分开，不再所有事都塞给一个 agent
-- 把自动回流链路跑通，让任务结果能收回来
-- 把模板、配置示例、验证步骤一起打包，方便别人复用
+- **主页仓库**：[`NanSsye-de/NanSsye-de`](https://github.com/NanSsye-de/NanSsye-de)
 
-**我更看重它的地方：**
-- 不是一句“支持多 agent”，而是有结构、有模板、有文档、有验证
-- 不是写给展示看的，而是写给真正要迁移 OpenClaw 的人用的
+**后续会公开补齐的方向：**
+- 多 agent 协作结构与路由规则
+- 可复用的 skill 脚手架与说明文档
+- 更完整的部署 / 验证材料
+
+**这次先做对一件事：**
+- 不再让主页出现任何 `NanSsye/` 旧账号仓库入口
+- 不把不存在于 `NanSsye-de` 名下的仓库硬挂到公开门面上
 
 </td>
 </tr>
@@ -91,10 +91,10 @@
 
 <div align="center">
 
-[![OpenClaw Skill Repo](https://img.shields.io/badge/OpenClaw-Multi--Agent%20Skill-111827?style=for-the-badge&logo=github)](https://github.com/NanSsye/openclaw-multi-agent-skill)
-[![Setup Guide](https://img.shields.io/badge/Docs-Setup-2563eb?style=for-the-badge)](https://github.com/NanSsye/openclaw-multi-agent-skill/blob/main/docs/setup.md)
-[![Routing Rules](https://img.shields.io/badge/Docs-Routing%20Rules-7c3aed?style=for-the-badge)](https://github.com/NanSsye/openclaw-multi-agent-skill/blob/main/docs/routing-rules.md)
-[![Validation](https://img.shields.io/badge/Docs-Validation-0f766e?style=for-the-badge)](https://github.com/NanSsye/openclaw-multi-agent-skill/blob/main/docs/validation.md)
+[![Profile Repo](https://img.shields.io/badge/GitHub-Profile%20Repo-111827?style=for-the-badge&logo=github)](https://github.com/NanSsye-de/NanSsye-de)
+[![Public Assets](https://img.shields.io/badge/Public%20Assets-Migrating-2563eb?style=for-the-badge)](https://github.com/NanSsye-de)
+[![Workflow Notes](https://img.shields.io/badge/Workflow-Being%20Organized-7c3aed?style=for-the-badge)](https://github.com/NanSsye-de/NanSsye-de)
+[![Docs Status](https://img.shields.io/badge/Docs-Updating-0f766e?style=for-the-badge)](https://github.com/NanSsye-de/NanSsye-de)
 
 </div>
 
@@ -263,8 +263,8 @@
 
 | 资产 | 类型 | 现在能点进去看什么 |
 |---|---|---|
-| [`NanSsye/openclaw-multi-agent-skill`](https://github.com/NanSsye/openclaw-multi-agent-skill) | Public repo / Skill | 三角协作 skill、本体说明、模板、配置示例、验证文档 |
 | [`NanSsye-de/NanSsye-de`](https://github.com/NanSsye-de/NanSsye-de) | Profile repo | 公开主页本身，以及我怎么整理自己的公开表达 |
+| `更多公开仓库整理中` | Placeholder | 待 `NanSsye-de` 名下公开仓库补齐后，再提供稳定入口 |
 
 > 原则很简单：**宁可少挂，也不拿私有东西硬凑门面。**
 
@@ -288,8 +288,8 @@
 [✓] 第二轮：首页结构已成型
 [✓] 第三轮：文案更像“我自己”
 [✓] 第四轮：门面感、层次感、作品感继续增强
-[✓] 第五轮：代表展示区与公开资产已挂上去
-[→] 第六轮：继续增加可公开作品，而不是继续堆自我描述
+[✓] 第五轮：代表展示区与公开资产已整理过一轮
+[→] 第六轮：等 `NanSsye-de` 名下公开仓库补齐后再继续增加作品入口
 ```
 
 我现在不想要一个“字很多但不好看”的主页。  
